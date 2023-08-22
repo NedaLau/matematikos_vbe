@@ -1,0 +1,181 @@
+01. Duotos dvi skaičių aibės $A = \{-5; -1; 0; 2; 3; 5; 7\}$ ir $A = \{-5; -2; 0; 1; 7; 9\}$. Nustatykite, kiek elementų priklauso aibių $A$ ir $B$ sąjungai.
+A 3
+B 7
+C 10
+*D 13
+
+
+
+
+
+02. Kuriame paveiksle pavaizduotas funkcijos $y = 2^x$ grafiko eskizas?
+
+
+
+
+
+
+
+
+
+03. Buvo apklausti vienos klasės mokiniai, kiek valandų per savaitę jie sportuoja. Lentelėje pateikti šios apklausos rezultatai. Nustatykite laiko, kurį mokinys skiria sportui, imties medianą.
+A 2 val.
+*B 3,5 val.
+C 4 val.
+D 5,5 val.
+
+
+
+
+
+04. Durų kodą turi sudaryti trys simboliai. Pirmasis simbolis turi būti viena iš trijų raidžių: $A$, $B$ arba $C$, o kiti du simboliai – bet kurie skaitmenys (pvz., $A16$, $B77$, $C09$ ir t. t.). Kiek tokių skirtingų kodų galima sudaryti?
+A 150
+B 243
+C 270
+*D 300
+
+
+
+
+
+05. Paveiksle pavaizduotas vienetinis apskritimas, kurio centras yra taškas $O$. Remdamiesi paveikslu, nustatykite taško M koordinates.
+A $\left(-\frac{1}{2}; \frac{1}{2}\right)$
+B $\left(-\frac{1}{2}; \frac{\sqrt{3}}{2}\right)$
+*C $\left(-\frac{\sqrt{3}}{2}; \frac{1}{2}\right)$
+D $\left(-\frac{\sqrt{3}}{2}; \frac{\sqrt{3}}{2}\right)$
+
+
+
+
+
+06. Paveiksle pavaizduotas žaidimo ratas, padalytas į tris vienodus sektorius. Vienas iš jų pažymėtas skaičiumi $1$, kitas – skaičiumi $2$, o trečias – skaičiumi $3$. Rato rodyklė sukama du kartus ir kiekvieną kartą užrašoma, kuriuo skaičiumi pažymėtame sektoriuje ji atsitiktinai sustoja (ant sektorių ribos rodyklė sustoti negali). Apskaičiuokite tikimybę, kad užrašytų skaičių suma bus lygi $5$.
+A $\frac{1}{6}$
+B $\frac{1}{9}$
+*C $\frac{2}{9}$
+D $\frac{2}{3}$
+
+
+
+
+
+07. Kuriuo atveju abi nurodytos funkcijos yra lyginės?
+A $f(x) = 2^x$ ir $g(x) = |x|$
+*B $g(x) = |x|$ ir $k(x) = \frac{1}{x^2 + 1}$
+C $g(x) = |x|$ ir $h(x) = \sqrt[3]{x}$
+D $f(x) = 2^x$ ir $k(x) = \frac{1}{x^2 + 1}$
+
+
+
+
+
+08. Paveiksle pavaizduotas kubas $ABCDA_{1}B_{1}C_{1}D_{1}$, kurio kraštinės ilgis lygus $1$. Nustatykite kampo tarp tiesės $D_{1}A$ ir tiesės $AB$ didumą.
+A $90^\circ$
+B $60^\circ$
+*C $45^\circ$
+D $30^\circ$
+
+
+
+
+
+09. Kvadratinė lygtis $x^2 - (p - 6)x + q = 0$ turi du skirtingus realiuosius sprendinius $x = p$ ir $x = q$, nelygius nuliui. Apskaičiuokite $p + q$.
+A $-7$
+B $-6$
+*C $-5$
+D $-4$
+
+
+
+
+
+10. Paveiksle pavaizduotas funkcijos $y = f(x)$ išvestinės grafikas, abscisių ašį kertantis taškuose $(-1; 0)$ ir $(4; 0)$. Funkcija $y = f(x)$ ir jos išvestinė $y = f'(x)$ yra apibrėžtos, kai $\(x \in \mathbb{R}\)$. Remdamiesi šiuo grafiku, nustatykite, kuri iš pateiktų funkcijos $y = f(x)$ reikšmių yra mažiausia.
+A $f(-1)$
+B $f(0)$
+C $f(2)$
+*D $f(4)$
+
+
+
+
+
+11. Paveiksle pavaizduotas trikampis $ABC$. Yra žinoma, kad $AC = 6$, $BC = 8$, o $sin \angle ACB =  \frac{3}{4}$. Apskaičiuokite trikampio $ABC$ plotą.
+A 36
+B 24
+*C 18
+D 48
+
+
+
+
+
+12.1. Paveiksle pavaizduotas apskritimas, kurio centras yra taškas $O$. Taškai $A$, $B$ ir $C$ priklauso šiam apskritimui. Trikampis $ABC$ yra lygiakraštis. Apskaičiuokite kampo $AOB$ didumą.
+A $100^\circ$
+*B $120^\circ$
+C $90^\circ$
+D $60^\circ$
+
+
+
+
+
+12.2. Paveiksle pavaizduotas apskritimas, kurio centras yra taškas $O$. Taškai $A$, $B$ ir $C$ priklauso šiam apskritimui. Trikampis $ABC$ yra lygiakraštis. Yra žinoma, kad apskritimo spindulio ilgis lygus $2\sqrt{3}$. Apskaičiuokite trikampio $ABC$ kraštinės ilgį.
+A $2\sqrt{3}$
+B $sqrt{3}$
+C 3
+*D 6
+
+
+
+
+
+13.1. Aritmetinės progresijos n-tojo nario formulė yra $a_n = 21 - 3n$. Apskaičiuokite šios progresijos pirmąjį narį.
+A 1
+B 21
+C 0
+*D 18
+
+
+
+
+
+13.2. Aritmetinės progresijos n-tojo nario formulė yra $a_n = 21 - 3n$. Yra žinoma, kad $a_k = -36$. Apskaičiuokite k reikšmę.
+A 22
+*B 19
+C -19
+D -22
+
+
+
+
+
+14.1. Išspręskite lygtį: $3^{1-x} = 27$.
+A -1
+*B -2
+C 4
+D 3
+
+
+
+
+
+14.2. Išspręskite lygtį: $tg(3x) = 1$.
+A $\frac{8\pi n +\pi}{12}, n \in Z$
+B $\frac{4\pi n +\pi}{24}, n \in Z$
+C $\frac{8\pi n +\pi}{24}, n \in Z$
+*D $\frac{4\pi n +\pi}{12}, n \in Z$
+
+
+
+
+
+14.3. Išspręskite lygtį: $e^{x^{2}} = 2$.
+*A $\sqrt{ln(2)}$ ir $-\sqrt{ln(2)}$
+B $\sqrt{ln(2)}$
+C $-\sqrt{ln(2)}$
+D $ln(2)$
+
+
+
+
+
+15. Dėžėje yra vienodo dydžio raudonų ir baltų rutulių. Atsitiktinai iš dėžės traukiamas vienas rutulys. 
