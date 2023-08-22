@@ -198,4 +198,18 @@ C $10^{-7} W/m^2$
 
 
 
-17. 
+17. Ingos penktadienio pamokų tvarkaraštyje turi būti šešios pamokos: dvi matematikos ir po vieną biologijos, istorijos, etikos bei anglų kalbos. Keliais skirtingais būdais galima sudaryti Ingos penktadienio pamokų tvarkaraštį, jeigu abi matematikos pamokos privalo eiti iš eilės?
+A 240
+B 720
+*C 120
+D 60
+
+
+
+
+
+18. Nustatykite funkcijos $f(x) = 1 - sin^2 x \cdot cos^2 x$
+*A 
+B 
+C 
+D 
