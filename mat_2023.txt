@@ -178,4 +178,24 @@ D $ln(2)$
 
 
 
-15. Dėžėje yra vienodo dydžio raudonų ir baltų rutulių. Atsitiktinai iš dėžės traukiamas vienas rutulys. 
+15. Dėžėje yra vienodo dydžio raudonų ir baltų rutulių. Atsitiktinai iš dėžės traukiamas vienas rutulys. Atsitiktinai iš dėžės traukiamas vienas rutulys. Tikimybė, kad jis bus raudonas, lygi $\frac{2}{5}$. Apskaičiuokite, kiek kartų pradinis baltų rutulių skaičius dėžėje yra didesnis už pradinį raudonų rutulių skaičių.
+A 3
+B 2
+C 0,6
+*D 1,5
+
+
+
+
+
+16. Garso, kurį girdi žmogus, intensyvumo lygį D decibelais (dB) galima apskaičiuoti pagal formulę $D = 10 \cdot lg(I \cdot 10^{12})$; čia I - garso stipris $(W/m^2)$. Žmogus žadintuvo garsą girdi 70 dB intensyvumu. Apskaičiuokite šio žadintuvo garso stiprį I$(W/m^2)$.
+A $10^{7} W/m^2$
+B $10^{5} W/m^2$
+C $10^{-7} W/m^2$
+*D $10^{-5} W/m^2$
+
+
+
+
+
+17. 
