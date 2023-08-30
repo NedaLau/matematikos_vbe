@@ -213,3 +213,49 @@ D 60
 B 
 C 
 D 
+
+
+
+
+
+19. Parduotuvėje naujas telefonas kainuoja 640 eurų. Įsigyto telefono vertė (eurais) po metų sumažėja $30 %$, o paskui kasmet mažėja po $15 %$ nuo paskutinių praėjusių metų vertės. Apskaičiuokite, kokia bus įsigyto telefono vertė po trejų metų.
+A 275,128 eurų
+B 380,8 eurų
+*C 323,68 eurų
+D 448 eurų
+
+
+
+
+
+20.1. Duotas reiškinys $\log_{0,3} (2 - 3x) - \log_{0,3} (4 + x)$. Nustatykite šio reiškinio apibrėžimo sritį.
+A $x \in (\frac{2}{3}, \infty)$
+B $x \in R$
+*C $x \in (-4, \frac{2}{3})$
+D $x \in (-4, 2)$
+
+
+
+
+
+20.2. Išspręskite nelygybę $\log_{0,3} (2 - 3x) \geq \log_{0,3} (4 + x)$.
+*A $x \in [-\frac{1}{2}, \frac{2}{3})$
+B $x \in (-4,-\frac{1}{2})$
+C $x \in [-\frac{1}{2}, 2)$
+D $x \in [-\frac{1}{2}, \infty)$
+
+
+
+
+
+21.1. Duota funkcija $f(x) = -x^3 + 3x^2 + 9x + 4$. Raskite šios funkcijos išvestinę $f'(x)$.
+A $9 + 3 x - 3 x^2$
+B $13 + 6 x - 3 x^2$
+*C $9 + 6 x - 3 x^2$
+D $9 + 3 x -  x^2$
+
+
+
+
+
+21.2. Duota funkcija $f(x) = -x^3 + 3x^2 + 9x + 4$.
