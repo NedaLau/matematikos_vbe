@@ -259,7 +259,10 @@ D $9 + 3 x -  x^2$
 
 
 21.2. Duota funkcija $f(x) = -x^3 + 3x^2 + 9x + 4$.
-
+A
+B
+C
+D
 
 
 
