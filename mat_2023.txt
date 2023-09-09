@@ -309,10 +309,10 @@ C 1
 
 
 25. Paveiksle pavaizduotas bukasis trikampis ABC. Yra žinoma, kad $\angle BAC - \angle ABC = 90^\circ$, o $AC : BC = 3:4$. Apskaičiuokite $tg \angle BAC$. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_25.png?raw=true)
-*A
-B
-C
-D
+*A $-\frac{4}{3}$
+B $\frac{3}{4}$
+C $\frac{4}{3}$
+D $-\frac{3}{4}$
 
 
 
@@ -323,3 +323,7 @@ A 35
 *B 27
 C 33
 D 15
+
+
+
+
