@@ -299,7 +299,27 @@ D 36
 
 
 24. Trys draugai – Giedrė, Tomas ir Mindaugas – laiko vairavimo egzaminą. Tegul įvykis G yra „Giedrė išlaikė vairavimo egzaminą“, įvykis T – „Tomas išlaikė vairavimo egzaminą“, o įvykisM – „Mindaugas išlaikė vairavimo egzaminą“ (G, T ir M yra nepriklausomieji įvykiai). Žinoma, kad įvykių tikimybės yra $P(G) = \frac{3}{4}$, $P(T) = \frac{4}{5}$ ir $P(M) = \frac{2}{3}$. Vairavimo egzaminą gali išlaikyti arba vienas iš draugų, arba du, arba trys, arba nė vienas iš jų. Atsitiktinis dydis X – „Vairavimo egzaminą išlaikiusių draugų skaičius“. Atsitiktinio dydžio X skirstinys pateiktas lentele. Apskaičiuokite atsitiktinio dydžio X matematinę viltį. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_24.png?raw=true)
-A
+A $2\frac{7}{30}$
+B $\frac{3}{20}$
+C 1
+*D $2\frac{13}{60}$
+
+
+
+
+
+25. Paveiksle pavaizduotas bukasis trikampis ABC. Yra žinoma, kad $\angle BAC - \angle ABC = 90^\circ$, o $AC : BC = 3:4$. Apskaičiuokite $tg \angle BAC$. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_25.png?raw=true)
+*A
 B
 C
 D
+
+
+
+
+
+26. Trys pirmieji didėjančiosios geometrinės progresijos nariai yra natūralieji skaičiai. Trečiasis narys lygus 90 % pirmųjų dviejų narių sumos. Trečiojo ir pirmojo narių skirtumas yra ne didesnis už 19. Nustatykite didžiausią galimą trečiojo nario reikšmę.
+A 35
+*B 27
+C 33
+D 15
