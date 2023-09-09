@@ -69,9 +69,9 @@ D $f(x) = 2^x$ ir $k(x) = \frac{1}{x^2 + 1}$
 
 
 08. Paveiksle pavaizduotas kubas $ABCDA_{1}B_{1}C_{1}D_{1}$, kurio kraštinės ilgis lygus $1$. Nustatykite kampo tarp tiesės $D_{1}A$ ir tiesės $AB$ didumą. [](https://github.com/NedaLau/matematikos_vbe/blob/main/2023_8.png?raw=true)
-A $90^\circ$
+*A $90^\circ$
 B $60^\circ$
-*C $45^\circ$
+C $45^\circ$
 D $30^\circ$
 
 
